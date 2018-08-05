@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">XYZ Reader</string>
+
+    <string name="action_share">Share</string>
+    <string name="errer_message">Erreur Inconnue</string>
+    <string name="OK">OK</string>
+    <string name="refreshed_string">Refreshed</string>
+    <string name="shared_transation">shared_transition</string>
+
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <!-- list -->
+    <integer name="list_column_count">2</integer>
+
+    <!-- detail -->
+    <!-- force match_parent -->
+    <dimen name="detail_metabar_title_bottom_padding">4dp</dimen>
+    <integer name="title_max_line">4</integer>
+    <integer name="subtitle_max_line">1</integer>
+</resources>

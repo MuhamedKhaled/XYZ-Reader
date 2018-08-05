@@ -1,0 +1,5 @@
+<resources>
+    <!-- detail -->
+    <dimen name="detail_metabar_title_bottom_padding">8dp</dimen>
+    <integer name="list_column_count">3</integer>
+</resources>

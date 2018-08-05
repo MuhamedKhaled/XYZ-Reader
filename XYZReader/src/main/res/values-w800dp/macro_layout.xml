@@ -1,0 +1,7 @@
+<resources>
+    <!-- list -->
+    <!-- minus 64 - 12 -->
+    <integer name="list_column_count">3</integer>
+
+    <!-- detail -->
+</resources>
