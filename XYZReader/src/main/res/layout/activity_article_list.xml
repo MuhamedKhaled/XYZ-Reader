@@ -11,6 +11,7 @@
         android:id="@+id/toolbar_container"
         android:layout_width="match_parent"
         android:layout_height="@dimen/app_bar_size"
+        app:elevation="4dp"
         app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
         >
 

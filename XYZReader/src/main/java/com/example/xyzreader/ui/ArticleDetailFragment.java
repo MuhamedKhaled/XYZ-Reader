@@ -153,7 +153,7 @@ public class ArticleDetailFragment extends Fragment implements
             mCursor = null;
         }
 
-        Typeface mainTypeface = Typeface.createFromAsset(getResources().getAssets(), "Rosario-Regular.ttf");
+        Typeface mainTypeface = Typeface.createFromAsset(getResources().getAssets(), "Roboto-Regular.ttf");
 
 
         if (mCursor != null) {

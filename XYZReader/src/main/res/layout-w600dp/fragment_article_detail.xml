@@ -147,5 +147,7 @@
         android:src="@drawable/ic_share"
         app:layout_anchor="@+id/toolbar_det"
         app:layout_anchorGravity="bottom|right"
+        app:elevation="6dp"
+        app:pressedTranslationZ="12dp"
         />
 </android.support.design.widget.CoordinatorLayout>

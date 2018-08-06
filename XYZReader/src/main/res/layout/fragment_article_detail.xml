@@ -134,6 +134,8 @@
         app:layout_anchor="@id/toolbar_det"
         app:layout_anchorGravity="bottom|right|end"
         tools:background="?android:attr/selectableItemBackgroundBorderless"
+        app:pressedTranslationZ="12dp"
+        app:elevation="6dp"
         />
 
 </android.support.design.widget.CoordinatorLayout>
